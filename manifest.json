@@ -4,5 +4,7 @@
   "author": "Zerebos",
   "authorId": "249746236008169473",
   "description": "Blocks all requests to Discord analytics endpoints.",
+  "icon": "assets/icon.png",
+  "color": "#e8e8e8",
   "license": "MIT"
 }

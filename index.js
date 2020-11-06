@@ -1,6 +1,6 @@
 /* eslint-disable no-undef */
-const { getModule } = require('@webpack');
-const { Plugin } = require('@entities');
+const { getModule } = require('@vizality/webpack');
+const { Plugin } = require('@vizality/entities');
 
 let Analytics, Reporter, Sentry;
 
