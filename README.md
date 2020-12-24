@@ -1,4 +1,4 @@
-**This plugin is currently archived as the feature has been built-in and so this plugin is no longer necesarry.**
+**This plugin is currently archived as the feature(s) have been built into Vizality, rendering the plugin obsolete.**
 
 ![Do Not Track](assets/banner.png)
 
